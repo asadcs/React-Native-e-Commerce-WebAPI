@@ -1,0 +1,28 @@
+{
+  "name": "react-native-e-commerce-webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadcs/React-Native-e-Commerce-WebAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadcs/React-Native-e-Commerce-WebAPI/issues"
+  },
+  "homepage": "https://github.com/asadcs/React-Native-e-Commerce-WebAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
